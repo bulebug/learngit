@@ -4,3 +4,4 @@ creating a new branch is qucik.
 branch test again.
 the third branch test and merge.
 commit not merge.
+fast forward.
