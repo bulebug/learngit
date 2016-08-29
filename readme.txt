@@ -6,3 +6,4 @@ the third branch test and merge.
 commit not merge.
 fast forward.
 dev commit again.
+no fast forward.
