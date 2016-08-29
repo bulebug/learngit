@@ -7,3 +7,4 @@ commit not merge.
 fast forward.
 dev commit again.
 no fast forward.
+branch merge.
