@@ -10,3 +10,4 @@ no fast forward.
 branch merge.
 master commit.
 dev commit.
+stash.
