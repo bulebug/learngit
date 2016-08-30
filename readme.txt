@@ -12,3 +12,4 @@ master commit.
 dev commit.
 stash.
 fix bug.
+more people working at same time.
