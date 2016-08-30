@@ -13,3 +13,4 @@ dev commit.
 stash.
 fix bug.
 have a conflict.
+more people working at same time.
