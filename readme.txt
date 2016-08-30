@@ -12,3 +12,4 @@ master commit.
 dev commit.
 stash.
 fix bug.
+have a conflict.
